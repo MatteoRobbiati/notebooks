@@ -1,9 +1,0 @@
-qibo==0.2.13
-matplotlib>=3.9.0
-numpy>=1.26.4
-cma==4.0.0
-
-
-# Ensure Jupyter notebook
-notebook~=6.0
-jupyterlab~=4.0
